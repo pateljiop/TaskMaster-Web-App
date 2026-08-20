@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/08_Banner_Cover.png" width="100%" alt="Hariom Builds — Code, Create, Automate" />
+  <p><strong>Hariom Builds</strong> · Code • Create • Automate</p>
+</div>
+
+---
+
 # TaskMaster-Web-App
 
 **A Full-Stack Task Management Web Application**
@@ -146,7 +153,7 @@ Contributions are welcome! Please follow these steps:
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
+3. Commit your changes (`git commit -m 'Add AmazingFeature'`)
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
@@ -156,7 +163,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Hariom** - BCA Student & Aspiring Developer
+**Hariom** - BCA Student & Developer
 - GitHub: [@pateljiop](https://github.com/pateljiop)
 - Email: ahuzahariom@gmail.com
 - Location: Ballia, Uttar Pradesh, India
